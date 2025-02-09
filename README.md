@@ -72,10 +72,13 @@ Para rodar os programas, siga estas instruções:
    ```
 3. Execute os arquivos Python desejados:
    ```sh
-   python3 missao1.py
+   python3 missoes.py
    ```
 
-*(Substitua "missao1.py" pelo arquivo correspondente à missão que deseja testar.)*
+---
+## 🖥️ <a name="deploy"> Deploy </a>
+
+Acesse o projeto ao vivo na Streamli: [Projeto ](https://vainaweb-phytondesafio1-2025.streamlit.app/).
 
 ---
 
@@ -85,10 +88,7 @@ Consegui restaurar a escola **Vai na Web** e me tornei um verdadeiro **programad
 
 Se gostou do projeto, siga-me para mais desafios! 🌟
 
-## 🖥️ <a name="deploy"> Deploy </a>
-
-Acesse o projeto ao vivo na Streamli: [Projeto ](https://vainaweb-phytondesafio1-2025.streamlit.app/).
-
+---
 
 ## 📌 <a name="observações"> Observações </a>
 
