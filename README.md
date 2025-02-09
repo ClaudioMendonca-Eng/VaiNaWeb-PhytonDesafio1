@@ -76,11 +76,6 @@ Para rodar os programas, siga estas instruções:
    ```
 
 ---
-## 🖥️ <a name="deploy"> Deploy </a>
-
-Acesse o projeto ao vivo na Streamli: [Projeto ](https://vainaweb-phytondesafio1-2025.streamlit.app/).
-
----
 
 ## 🎉 Conclusão
 
